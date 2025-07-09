@@ -12,7 +12,7 @@
 - **Gestión de Archivos**: Sistema de carpetas compartidas para resultados
 - **Procesamiento Rápido**: Optimizado para documentos de diferentes tamaños
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 | Capa | Tecnologías |
 |------|-------------|
