@@ -1,4 +1,4 @@
-# 📄➡️📝 OCR-MD
+# OCR-MD
 
 **OCR-MD** es una aplicación web moderna que convierte documentos PDF (digitales o escaneados) en archivos Markdown de forma automática y eficiente. Combina tecnologías de OCR avanzadas con una interfaz web intuitiva para ofrecer una experiencia completa de conversión de documentos.
 
